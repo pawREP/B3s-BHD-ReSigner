@@ -1,5 +1,5 @@
 ### Note:
-It turns out that this whole project is pointless since TKGP and I discovered that the game just loads any old decrypted bhd. If the file starts with BHD5, the game will load it and just skip the signarture verification. Great security.
+It turns out that this whole project is pointless since TKGP and I discovered that the game just loads any old decrypted bhd. If the file starts with BHD5, the game will load it and just skip the signature verification. Great security.
 
 # B3s BHD Re-signer
 This tool allows re-signing of Dark Souls 3's archive header files (BHD) with a new RSA key pairs.
